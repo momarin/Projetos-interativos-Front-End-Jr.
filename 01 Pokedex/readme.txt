@@ -20,4 +20,4 @@
     - Gere seu próprio favicon em: https://www.websiteplanet.com/pt-br/webtools/favicon-generator/
     - HTML entities em https://www.freeformatter.com/html-entities.html
     - Minha escolha por esse projeto se dá pela PokeAPI ser uma ótima API para treino;
-    - Projeto concebido por Manual do Dev, disponível no Youtube.
+    - Projeto concebido por Manual do Dev, disponível no Youtube em @ManualdoDev.
