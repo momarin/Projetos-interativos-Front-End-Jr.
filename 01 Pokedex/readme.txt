@@ -4,9 +4,17 @@
     Construir uma pokedex inerativa, customizada de acordo com o layout original da pokedéx e consumindo API;
 
 
-# Características principais:
+# Características HTML:
     - utilização de html semântico;
+
+# Características CSS:
     - trabalhando com subclasse active de um botão;
+
+#Características JS:
+    - consumo da API PokéAPI;
+    - validação de form;
+    - utilização de buttons com evento e conceito de prev e next + suas respectivas funções;
+    - uso de fetch, promises e template literals;
 
 # Mais:
     - Gere seu próprio favicon em: https://www.websiteplanet.com/pt-br/webtools/favicon-generator/
